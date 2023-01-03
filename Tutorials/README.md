@@ -6,4 +6,5 @@ Index:
 3. read csv file in scala spark. 
 4. read csv file in pyspark. 
 5. Word Count Example in Spark | Scala | Python
+6. read_csv_and_json_user_defined_schema.ipynb - Read CSV and JSON using user defined schema. 
 
